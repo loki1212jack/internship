@@ -1,0 +1,53 @@
+#lol{
+    background-color: rgba(180, 196, 35,0.2);
+    border-color: 20px black;
+    color: red;
+    
+}
+p#lol3{
+    background-color: #000;
+    color: pink;
+}
+#lol1{
+    background-color: #003423;
+}
+
+body.cl{
+    background: url(3-series-exterior-right-front-three-quarter-10.avif)  top right scroll no-repeat;
+}
+
+#ol{
+    margin: 100px;
+    width: 25%;
+    font-weight: 100px;
+   outline-offset: -18px;
+    padding: 10px;
+    outline: 5px greenyellow solid;
+    border: 5px solid black;
+}
+
+
+
+    .ll{
+        color: blue;
+        text-align: right;
+        border-right: 10px solid  rgb(0, 94, 255);
+    }
+#just{
+    border: 5px black solid;
+    padding: 10px;
+    width: 50%;
+    text-align: justify;
+    color: chocolate;
+}
+
+
+    rfrdiv{
+        
+        border: 5px solid green;
+        color: aqua;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
